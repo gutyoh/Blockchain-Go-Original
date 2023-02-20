@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Blockchain-Go-New.iml" filepath="$PROJECT_DIR$/.idea/Blockchain-Go-New.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Blockchain/stage1/Blockchain-Go-New.Blockchain-stage1.iml" filepath="$PROJECT_DIR$/.idea/modules/Blockchain/stage1/Blockchain-Go-New.Blockchain-stage1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Blockchain/stage1/Blockchain-Go-New.Blockchain-stage1.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Blockchain/stage1/Blockchain-Go-New.Blockchain-stage1.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Blockchain/stage1/Blockchain-Go-New.Blockchain-stage1.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Blockchain/stage1/Blockchain-Go-New.Blockchain-stage1.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Blockchain/stage2/Blockchain-Go-New.Blockchain-stage2.iml" filepath="$PROJECT_DIR$/.idea/modules/Blockchain/stage2/Blockchain-Go-New.Blockchain-stage2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Blockchain/stage2/Blockchain-Go-New.Blockchain-stage2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Blockchain/stage2/Blockchain-Go-New.Blockchain-stage2.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Blockchain/stage2/Blockchain-Go-New.Blockchain-stage2.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Blockchain/stage2/Blockchain-Go-New.Blockchain-stage2.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Blockchain/stage3/Blockchain-Go-New.Blockchain-stage3.iml" filepath="$PROJECT_DIR$/.idea/modules/Blockchain/stage3/Blockchain-Go-New.Blockchain-stage3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Blockchain/stage3/Blockchain-Go-New.Blockchain-stage3.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Blockchain/stage3/Blockchain-Go-New.Blockchain-stage3.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Blockchain/stage3/Blockchain-Go-New.Blockchain-stage3.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Blockchain/stage3/Blockchain-Go-New.Blockchain-stage3.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Blockchain/stage4/Blockchain-Go-New.Blockchain-stage4.iml" filepath="$PROJECT_DIR$/.idea/modules/Blockchain/stage4/Blockchain-Go-New.Blockchain-stage4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Blockchain/stage4/Blockchain-Go-New.Blockchain-stage4.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Blockchain/stage4/Blockchain-Go-New.Blockchain-stage4.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Blockchain/stage4/Blockchain-Go-New.Blockchain-stage4.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Blockchain/stage4/Blockchain-Go-New.Blockchain-stage4.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Blockchain/stage5/Blockchain-Go-New.Blockchain-stage5.iml" filepath="$PROJECT_DIR$/.idea/modules/Blockchain/stage5/Blockchain-Go-New.Blockchain-stage5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Blockchain/stage5/Blockchain-Go-New.Blockchain-stage5.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Blockchain/stage5/Blockchain-Go-New.Blockchain-stage5.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Blockchain/stage5/Blockchain-Go-New.Blockchain-stage5.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Blockchain/stage5/Blockchain-Go-New.Blockchain-stage5.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Blockchain/stage6/Blockchain-Go-New.Blockchain-stage6.iml" filepath="$PROJECT_DIR$/.idea/modules/Blockchain/stage6/Blockchain-Go-New.Blockchain-stage6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Blockchain/stage6/Blockchain-Go-New.Blockchain-stage6.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Blockchain/stage6/Blockchain-Go-New.Blockchain-stage6.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Blockchain/stage6/Blockchain-Go-New.Blockchain-stage6.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Blockchain/stage6/Blockchain-Go-New.Blockchain-stage6.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Blockchain-Go-New.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Blockchain-Go-New.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Blockchain-Go-New.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Blockchain-Go-New.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Blockchain-Go-New.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Blockchain-Go-New.util.test.iml" />
+    </modules>
+  </component>
+</project>
